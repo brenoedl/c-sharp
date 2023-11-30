@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\bin\Debug\net8.0\ConsolePrrimeiroPrograma.exe
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\bin\Debug\net8.0\ConsolePrrimeiroPrograma.deps.json
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\bin\Debug\net8.0\ConsolePrrimeiroPrograma.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\bin\Debug\net8.0\ConsolePrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\bin\Debug\net8.0\ConsolePrrimeiroPrograma.pdb
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.sourcelink.json
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\refint\ConsolePrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.pdb
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ConsolePrrimeiroPrograma.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ConsolePrrimeiroPrograma\ConsolePrrimeiroPrograma\obj\Debug\net8.0\ref\ConsolePrrimeiroPrograma.dll
