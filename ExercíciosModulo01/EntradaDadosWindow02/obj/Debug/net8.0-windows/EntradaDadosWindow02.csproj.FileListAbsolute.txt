@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\bin\Debug\net8.0-windows\EntradaDadosWindow02.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\bin\Debug\net8.0-windows\EntradaDadosWindow02.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\bin\Debug\net8.0-windows\EntradaDadosWindow02.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\bin\Debug\net8.0-windows\EntradaDadosWindow02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\bin\Debug\net8.0-windows\EntradaDadosWindow02.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\refint\EntradaDadosWindow02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\ref\EntradaDadosWindow02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.Form1.resources
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow02\obj\Debug\net8.0-windows\EntradaDadosWindow02.csproj.GenerateResource.cache

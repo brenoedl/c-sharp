@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\bin\Debug\net8.0-windows\StringsInterpoladasWindow01.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\bin\Debug\net8.0-windows\StringsInterpoladasWindow01.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\bin\Debug\net8.0-windows\StringsInterpoladasWindow01.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\bin\Debug\net8.0-windows\StringsInterpoladasWindow01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\bin\Debug\net8.0-windows\StringsInterpoladasWindow01.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.Form1.resources
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\refint\StringsInterpoladasWindow01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\StringsInterpoladasWindow01.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasWindow01\obj\Debug\net8.0-windows\ref\StringsInterpoladasWindow01.dll

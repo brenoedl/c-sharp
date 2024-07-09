@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\bin\Debug\net8.0-windows\EntradaDadosWindow03.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\bin\Debug\net8.0-windows\EntradaDadosWindow03.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\bin\Debug\net8.0-windows\EntradaDadosWindow03.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\bin\Debug\net8.0-windows\EntradaDadosWindow03.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\bin\Debug\net8.0-windows\EntradaDadosWindow03.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.Form1.resources
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\refint\EntradaDadosWindow03.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\EntradaDadosWindow03.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosWindow03\obj\Debug\net8.0-windows\ref\EntradaDadosWindow03.dll

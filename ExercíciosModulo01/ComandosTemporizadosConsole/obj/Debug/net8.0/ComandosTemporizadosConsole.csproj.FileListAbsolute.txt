@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\bin\Debug\net8.0\ComandosTemporizadosConsole.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\bin\Debug\net8.0\ComandosTemporizadosConsole.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\bin\Debug\net8.0\ComandosTemporizadosConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\bin\Debug\net8.0\ComandosTemporizadosConsole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\bin\Debug\net8.0\ComandosTemporizadosConsole.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\refint\ComandosTemporizadosConsole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ComandosTemporizadosConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosConsole\obj\Debug\net8.0\ref\ComandosTemporizadosConsole.dll

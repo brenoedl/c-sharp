@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\bin\Debug\net8.0-windows\ComandosTemporizadosWintow.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\bin\Debug\net8.0-windows\ComandosTemporizadosWintow.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\bin\Debug\net8.0-windows\ComandosTemporizadosWintow.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\bin\Debug\net8.0-windows\ComandosTemporizadosWintow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\bin\Debug\net8.0-windows\ComandosTemporizadosWintow.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.Form1.resources
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\refint\ComandosTemporizadosWintow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ComandosTemporizadosWintow.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ComandosTemporizadosWintow\obj\Debug\net8.0-windows\ref\ComandosTemporizadosWintow.dll

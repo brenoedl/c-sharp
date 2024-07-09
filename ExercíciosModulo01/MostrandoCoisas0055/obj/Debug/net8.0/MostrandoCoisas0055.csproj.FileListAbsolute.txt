@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\bin\Debug\net8.0\MostrandoCoisas0055.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\bin\Debug\net8.0\MostrandoCoisas0055.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\bin\Debug\net8.0\MostrandoCoisas0055.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\bin\Debug\net8.0\MostrandoCoisas0055.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\bin\Debug\net8.0\MostrandoCoisas0055.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\refint\MostrandoCoisas0055.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\MostrandoCoisas0055.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\MostrandoCoisas0055\obj\Debug\net8.0\ref\MostrandoCoisas0055.dll

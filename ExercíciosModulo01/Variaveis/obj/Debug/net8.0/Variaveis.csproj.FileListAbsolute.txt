@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\bin\Debug\net8.0\Variaveis.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\bin\Debug\net8.0\Variaveis.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MostrandoCoisas0055/1.0.0": {
+        "runtime": {
+          "MostrandoCoisas0055.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MostrandoCoisas0055/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

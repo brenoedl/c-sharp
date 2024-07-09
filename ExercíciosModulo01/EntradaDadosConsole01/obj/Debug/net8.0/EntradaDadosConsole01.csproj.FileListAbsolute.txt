@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\bin\Debug\net8.0\EntradaDadosConsole01.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\bin\Debug\net8.0\EntradaDadosConsole01.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\bin\Debug\net8.0\EntradaDadosConsole01.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\bin\Debug\net8.0\EntradaDadosConsole01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\bin\Debug\net8.0\EntradaDadosConsole01.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\refint\EntradaDadosConsole01.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\EntradaDadosConsole01.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\EntradaDadosConsole01\obj\Debug\net8.0\ref\EntradaDadosConsole01.dll

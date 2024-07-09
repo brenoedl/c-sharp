@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\bin\Debug\net8.0\DataHora.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\bin\Debug\net8.0\DataHora.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\bin\Debug\net8.0\DataHora.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\bin\Debug\net8.0\DataHora.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\bin\Debug\net8.0\DataHora.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\refint\DataHora.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\DataHora.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHora\obj\Debug\net8.0\ref\DataHora.dll

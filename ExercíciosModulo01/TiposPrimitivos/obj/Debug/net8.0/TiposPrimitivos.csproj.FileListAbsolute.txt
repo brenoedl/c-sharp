@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\bin\Debug\net8.0\TiposPrimitivos.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\bin\Debug\net8.0\TiposPrimitivos.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\bin\Debug\net8.0\TiposPrimitivos.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\bin\Debug\net8.0\TiposPrimitivos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\bin\Debug\net8.0\TiposPrimitivos.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\refint\TiposPrimitivos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\TiposPrimitivos.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\TiposPrimitivos\obj\Debug\net8.0\ref\TiposPrimitivos.dll

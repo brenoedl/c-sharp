@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\bin\Debug\net8.0\NumerosAleatorios.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\bin\Debug\net8.0\NumerosAleatorios.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\bin\Debug\net8.0\NumerosAleatorios.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\bin\Debug\net8.0\NumerosAleatorios.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\bin\Debug\net8.0\NumerosAleatorios.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\refint\NumerosAleatorios.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\NumerosAleatorios.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\NumerosAleatorios\obj\Debug\net8.0\ref\NumerosAleatorios.dll

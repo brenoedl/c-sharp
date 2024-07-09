@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\bin\Debug\net8.0\StringsInterpoladasConsole02.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\bin\Debug\net8.0\StringsInterpoladasConsole02.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\bin\Debug\net8.0\StringsInterpoladasConsole02.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\bin\Debug\net8.0\StringsInterpoladasConsole02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\bin\Debug\net8.0\StringsInterpoladasConsole02.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\refint\StringsInterpoladasConsole02.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\StringsInterpoladasConsole02.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasConsole02\obj\Debug\net8.0\ref\StringsInterpoladasConsole02.dll

@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\bin\Debug\net8.0\StringsInterpoladasFormatadasCosole.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\bin\Debug\net8.0\StringsInterpoladasFormatadasCosole.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\bin\Debug\net8.0\StringsInterpoladasFormatadasCosole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\bin\Debug\net8.0\StringsInterpoladasFormatadasCosole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\bin\Debug\net8.0\StringsInterpoladasFormatadasCosole.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\refint\StringsInterpoladasFormatadasCosole.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\StringsInterpoladasFormatadasCosole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\StringsInterpoladasFormatadasCosole\obj\Debug\net8.0\ref\StringsInterpoladasFormatadasCosole.dll

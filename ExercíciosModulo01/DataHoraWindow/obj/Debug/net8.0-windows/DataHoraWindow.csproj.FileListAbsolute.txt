@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\bin\Debug\net8.0-windows\DataHoraWindow.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\bin\Debug\net8.0-windows\DataHoraWindow.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\bin\Debug\net8.0-windows\DataHoraWindow.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\bin\Debug\net8.0-windows\DataHoraWindow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\bin\Debug\net8.0-windows\DataHoraWindow.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.Form1.resources
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\refint\DataHoraWindow.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\DataHoraWindow.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\DataHoraWindow\obj\Debug\net8.0-windows\ref\DataHoraWindow.dll

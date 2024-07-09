@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.exe
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.deps.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.sourcelink.json
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\refint\ConversaoTipos.dll
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.pdb
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\ExercíciosModulo01\ConversaoTipos\obj\Debug\net8.0\ref\ConversaoTipos.dll
