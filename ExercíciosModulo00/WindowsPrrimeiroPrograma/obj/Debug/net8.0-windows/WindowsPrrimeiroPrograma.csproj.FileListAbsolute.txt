@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\bin\Debug\net8.0-windows\WindowsPrrimeiroPrograma.exe
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\bin\Debug\net8.0-windows\WindowsPrrimeiroPrograma.deps.json
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\bin\Debug\net8.0-windows\WindowsPrrimeiroPrograma.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\bin\Debug\net8.0-windows\WindowsPrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\bin\Debug\net8.0-windows\WindowsPrrimeiroPrograma.pdb
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.Form1.resources
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.sourcelink.json
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\refint\WindowsPrrimeiroPrograma.dll
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.pdb
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\WindowsPrrimeiroPrograma.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\WindowsPrrimeiroPrograma\WindowsPrrimeiroPrograma\obj\Debug\net8.0-windows\ref\WindowsPrrimeiroPrograma.dll
