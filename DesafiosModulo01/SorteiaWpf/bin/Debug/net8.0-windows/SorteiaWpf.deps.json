@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SorteiaWpf/1.0.0": {
+        "runtime": {
+          "SorteiaWpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SorteiaWpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

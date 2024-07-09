@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.Form1.resources
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\bin\Debug\net8.0-windows\BrasilWindow.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\bin\Debug\net8.0-windows\BrasilWindow.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\bin\Debug\net8.0-windows\BrasilWindow.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\bin\Debug\net8.0-windows\BrasilWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\bin\Debug\net8.0-windows\BrasilWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\refint\BrasilWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\BrasilWindow.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilWindow\obj\Debug\net8.0-windows\ref\BrasilWindow.dll

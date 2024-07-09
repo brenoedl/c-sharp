@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\bin\Debug\net8.0\BrasilConsole.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\bin\Debug\net8.0\BrasilConsole.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\bin\Debug\net8.0\BrasilConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\bin\Debug\net8.0\BrasilConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\bin\Debug\net8.0\BrasilConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\refint\BrasilConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\BrasilConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\BrasilConsole\obj\Debug\net8.0\ref\BrasilConsole.dll

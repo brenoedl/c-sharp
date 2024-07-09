@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\bin\Debug\net8.0-windows\AredondarWindow.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\bin\Debug\net8.0-windows\AredondarWindow.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\bin\Debug\net8.0-windows\AredondarWindow.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\bin\Debug\net8.0-windows\AredondarWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\bin\Debug\net8.0-windows\AredondarWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.Form1.resources
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\refint\AredondarWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\AredondarWindow.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarWindow\obj\Debug\net8.0-windows\ref\AredondarWindow.dll

@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\bin\Debug\net8.0\IdadeConsole.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\bin\Debug\net8.0\IdadeConsole.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\bin\Debug\net8.0\IdadeConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\bin\Debug\net8.0\IdadeConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\bin\Debug\net8.0\IdadeConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\refint\IdadeConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\IdadeConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\IdadeConsole\obj\Debug\net8.0\ref\IdadeConsole.dll

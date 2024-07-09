@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\bin\Debug\net8.0\SorteiaConsole.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\bin\Debug\net8.0\SorteiaConsole.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\bin\Debug\net8.0\SorteiaConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\bin\Debug\net8.0\SorteiaConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\bin\Debug\net8.0\SorteiaConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\refint\SorteiaConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\SorteiaConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\SorteiaConsole\obj\Debug\net8.0\ref\SorteiaConsole.dll

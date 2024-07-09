@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\bin\Debug\net8.0\PrecoConsole.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\bin\Debug\net8.0\PrecoConsole.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\bin\Debug\net8.0\PrecoConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\bin\Debug\net8.0\PrecoConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\bin\Debug\net8.0\PrecoConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\refint\PrecoConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\PrecoConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoConsole\obj\Debug\net8.0\ref\PrecoConsole.dll

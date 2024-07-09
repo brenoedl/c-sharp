@@ -1,0 +1,15 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\bin\Debug\net8.0\AredondarConsole.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\bin\Debug\net8.0\AredondarConsole.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\bin\Debug\net8.0\AredondarConsole.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\bin\Debug\net8.0\AredondarConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\bin\Debug\net8.0\AredondarConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\refint\AredondarConsole.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\AredondarConsole.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\AredondarConsole\obj\Debug\net8.0\ref\AredondarConsole.dll

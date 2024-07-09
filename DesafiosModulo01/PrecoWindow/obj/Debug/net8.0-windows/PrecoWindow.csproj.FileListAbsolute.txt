@@ -1,0 +1,17 @@
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\bin\Debug\net8.0-windows\PrecoWindow.exe
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\bin\Debug\net8.0-windows\PrecoWindow.deps.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\bin\Debug\net8.0-windows\PrecoWindow.runtimeconfig.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\bin\Debug\net8.0-windows\PrecoWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\bin\Debug\net8.0-windows\PrecoWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.Form1.resources
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.csproj.GenerateResource.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.AssemblyInfoInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.AssemblyInfo.cs
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.csproj.CoreCompileInputs.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.sourcelink.json
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\refint\PrecoWindow.dll
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.pdb
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\PrecoWindow.genruntimeconfig.cache
+D:\Documentos\estudos\c-sharp\DesafiosModulo01\PrecoWindow\obj\Debug\net8.0-windows\ref\PrecoWindow.dll
